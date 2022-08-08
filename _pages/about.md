@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <i>There is only one true heroism in the world,To see the world as it is, and to love it.</i>
+subtitle: <i>There is only one true heroism in the world, To see the world as it is, and to love it.</i>
 
 profile:
   align: right
