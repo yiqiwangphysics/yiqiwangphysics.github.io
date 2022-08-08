@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: #"There is only one true heroism in the world \: to see the world as it is, and to love it" - Roman Rolland
+subtitle: "There is only one true heroism in the world, to see the world as it is, and to love it"
 
 profile:
   align: right
@@ -17,10 +17,8 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a sixth year [Applied Physics Department](https://appliedphysics.yale.edu/) PhD student from **[AT]** Yale University. In January 2018, I started working with [Prof. Jack Harris](https://physics.yale.edu/people/jack-harris) on Optomechanics in quantum regime. More specifically, I focused on studying
 
+Prior my PhD, I hold a B.S. (2017) in Physics, with Honors, from [Department of Physics, Fudan University](https://phys.fudan.edu.cn/eng/), where my research focused on the condensed matter experiments in low temperature and high magnetic fields.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was born on a small island, Luxi(鹿西) island, in SouthEast China, where I spent all my first 13 years. Since then, all cities (Wenzhou, Shanghai, Hong Kong, New Haven) I have stayed are near the coast. I enjoy swimming, basketball and hiking. I also learnt skiing in new England. I have a cat (NOT a superposition BUT alive) named Chowder.
