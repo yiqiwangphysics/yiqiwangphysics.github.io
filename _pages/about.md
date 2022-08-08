@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 'There is only one true heroism in the world: to see the world as it is, and to love it' ― Roman Rolland
+subtitle: #'There is only one true heroism in the world: to see the world as it is, and to love it' ― Roman Rolland
 
 profile:
   align: right
