@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: "There is only one true heroism in the world: to see the world as it is, and to love it” ― Roman Rolland
+subtitle: 'There is only one true heroism in the world: to see the world as it is, and to love it' ― Roman Rolland
 
 profile:
   align: right
   image: Yiqi_Wang_Portrait.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p><a href="https://physics.yale.edu">Yale University</a></p>
+    <p><a href='https://physics.yale.edu'>Yale University</a></p>
     <p>217 Prospect St.，</p>
     <p>New Haven, CT, 06511</p>
 
