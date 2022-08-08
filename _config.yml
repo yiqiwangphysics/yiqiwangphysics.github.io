@@ -220,7 +220,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: Wang
-  first_name: [Yiqi]
+  first_name: ["Yiqi","Y.","Y"]
 
   style: apa
   locale: en
