@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: Yale University, New Haven, USA
       year: 2017-Now
       description:
@@ -21,7 +21,7 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: B.S.
+    - title: B.Sc.
       institution: Fudan University, Shanghai, China
       year: 2013-2017
       description:
