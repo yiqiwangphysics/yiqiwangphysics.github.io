@@ -16,39 +16,38 @@
       year: 2017-Now
       description:
         - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+
     - title: B.Sc.
       institution: Fudan University, Shanghai, China
       year: 2013-2017
       description:
-        - Description 1.
-        - Description 2.
+        - Exchanging at Chinese University of Hong Kong in 2016 Fall
+        - Honors Student Award in Physics In <i>National Top Undergraduate Training Program</i>
+        - Outstanding graduate in Shanghai
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+    - title: Research Assistant
+      institution: Physics Department, Yale University
+      year: 2017 - now
 
 
-- title: Open Source Projects
+- title: Teaching
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: PHYS 508 Quantum Mechanics I
+      institution: GRADUATE TEACHING ASSISTANT FELLOW
+      year: 2019 Fall
+      description:
+        - This is a graduate level course. My works include leading group discussion, holding office hours, grading homework and making solution manual.
+
+    - title: PHYS 201 Fundamental Physics
+      institution: GRADUATE TEACHING ASSISTANT FELLOW
+      year: 2020 Spring
+      description:
+        - I led introductory physics lecture discussions, and I taught introductory physics, where I helped groups of students collaboratively solve problems in study halls, grade homework and exams.
+
 
 - title: Honors and Awards
   type: time_table
