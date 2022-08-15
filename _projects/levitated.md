@@ -28,7 +28,7 @@ So far, we have levitated a stable drop in high vacuum and studies its optical, 
 Currently, we are working on levitating a larger and colder Helium-4 drops to study quantum optomechanics in new regimes. This work provides a unique avenue to access to research macroscopic quantume phenomena, non-Guassian optomechanics.
 
 In the meantime, we are also explore the possibility to levitated He-3 drop in vacuum. And this project also gives the special access to study the opto-rotation dynamics in quantum regime.
-
+Please keep an eye on this exciting and intriguing project! 
 
 <div class="row mt-6">
     <div class="col-sm mt-3 mt-md-0" align="center">
