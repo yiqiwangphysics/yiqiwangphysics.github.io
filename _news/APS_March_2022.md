@@ -18,3 +18,9 @@ See our latest work in March Meeting!
 
 - Wednesday, March 16, 2022, 10:24 AM
   [M34.13 Measurement of Multimode Optomechanical Coupling in a Superfluid $$^4$$He Resonator](https://meetings.aps.org/Meeting/MAR22/Session/M34.13)
+
+<div class="row mt-6">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/news/news_img/chicago.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
