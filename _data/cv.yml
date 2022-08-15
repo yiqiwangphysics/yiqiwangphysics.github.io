@@ -15,12 +15,15 @@
       institution: Yale University, New Haven, USA
       year: 2017-Now
       description:
-        - Description 1.
+        - Applied Physics Department
+        - Ph.D. Candidacy Advisor &#58; Prof. Jack. G. E. Harris
+        - Quantum Optomechanics and Quantum Metrology
 
     - title: B.Sc.
       institution: Fudan University, Shanghai, China
       year: 2013-2017
       description:
+        - Physics Department
         - Exchanging at Chinese University of Hong Kong in 2016 Fall
         - Honors Student Award in Physics In <i>National Top Undergraduate Training Program</i>
         - Outstanding graduate in Shanghai
@@ -31,6 +34,9 @@
     - title: Research Assistant
       institution: Physics Department, Yale University
       year: 2017 - now
+    - title: Yale-NUS Alumni Mentor
+      institution: Yale-NUS College
+      year: 2022
 
 
 - title: Teaching
@@ -46,28 +52,57 @@
       institution: GRADUATE TEACHING ASSISTANT FELLOW
       year: 2020 Spring
       description:
-        - I led introductory physics lecture discussions, and I taught introductory physics, where I helped groups of students collaboratively solve problems in study halls, grade homework and exams.
+        - I led introductory physics lecture discussions and helped groups of students collaboratively solve problems in study halls, grade homework and exams.
 
+    - title: Yale Undergradute Research Project
+      institution: UNDERGRADUATE RESEARCH INSTRUCTOR
+      year: 2017-Now
+      description:
+        - I mentored six undergraduate students for Yale undergraduate research projects. I hold weekly meeting and provided feedbacks on their projects.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2014
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - 1st Prize, China Undergraduate Mathematics Contest in Modeling (CUMCM)
+    - year: 2015
       items:
-        - Max Planck Medal
+        - XUEERSI Scholarship for Outstanding Student
+    - year: 2017
+      items:
+        - Outstanding Graduate in Shanghai
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Quantum Optomechanics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Explore potentail applications for hybrid optomechanics
+        - Manipulate and measure mechanical resonator in quantum regime
+    - title: Quantum Sensing/Metrology
       items:
-        - Description 1.
-        - Description 2.
+        - Quantum-enhanced sensitivity
+          - Dark matter search
+          - Gravity wave measurement
+        - Quantum metrology advantages
+    - title: Macroscopic Quantum Phenomena
+      items:
+        - Explore quantum theory in macroscopic scales
+        - Test quantum gravity phenomenology
+
+- title: Talk/Poster Presentation
+  type: time_table
+  contents:
+    - title: Quantum Optomechanics in a Levitated 4He Drop
+      institution: YQI Talk, New Haven
+      year: 2019 Nov
+    - title: Measurement of Non-classical Photon-Phonon States in a Superfluid Optomechanical System
+      institution: APS March Meeting, Virtual; NONGAUSS Workshop
+      year: 2021
+    - title: Experimental Test of Quantum Gravity Induced Non-locality Using a Liquid Helium Filled Cavity
+      institution: APS March Meeting, Chicago
+      year: 2022 March
+    - title: Manipulating and Measuring States of an Optomechanical Resonator in the Quantum Regime
+      institution: International Conference on Atomic Physics, Toronto
+      year: 2022 July

@@ -46,11 +46,11 @@ In everyday language, we use “hole” in a variety of nonequivalent ways. One 
 
 When dealing with topological spaces, a disconnectivity is interpreted as a hole in the space. Examples of holes are things like the "donut hole" in the center of the torus, a domain removed from a plane, and the portion missing from Euclidean space after cutting a knot out from it.
 
-#### Type-1: Donut like hole
+#### Donut-like hole
 
 The Euler number, V – E + F describes the different holes. Another way of counting this type of holes was by seeing how many times the object could be cut without producing two pieces. For a surface with boundary, such as a straw with its two boundary circles, each cut must begin and end on a boundary. So, according to Riemann, because a straw can be cut only once — from end to end — it has exactly one hole. If the surface does not have a boundary, like a torus, the first cut must begin and end at the same point. A hollow torus can be cut twice — once around the tube and then along the resulting cylinder — so by this definition, it has two holes.
 
-#### Type-2: Cavity-like hole inside Swiss cheese
+#### Generalization
 
 The number of these holes — one for each dimension — became known as the Betti numbers of the object in honor of Enrico Betti.
 

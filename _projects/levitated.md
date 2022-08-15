@@ -1,80 +1,37 @@
 ---
 layout: page
 title: Levitated Superfluid
-description: a project with a background image
+description: Study macroscopic quantum phenomena in a levitated superfluid Helium drop
 img: assets/img/project/levitated/cover.jpg
 importance: 2
 category: Optomechanics
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Since 2018 Jan, I have joined the Levitated Helium Drop experiment with graduate student Charles D. Brown (Phd, Physics, Yale ‘19), postdoc Glen Harris (PhD, U of Queensland ‘15) and postdoc Mehdi Namazi (PhD, SUNY '18).
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Superfluid helium has many unique properties that make it a remarkable material for quantum optomechanics experiments. By magnetically levitating millimeter-scale drops of superfluid in vacuum, we are exploring new ways to exploit these properties and to address outstanding questions in fundamental fluid mechanics.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row mt-6">
+    <div class="col-sm mt-3 mt-md-0" align="center">
+        {% include figure.html path="/assets/img/project/levitated/drop.png" zoomable=true width="700"%}
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+
+
+This work is based on the previous experimental proposal:
+- Childress, L., et al. "Cavity optomechanics in a levitated helium drop." [Physical Review A 96.6 (2017): 063842.](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.96.063842)
+- Charles Brown "Optical, Mechanical and Thermal Properties of Superfluid Liquid Helium Drops Magnetically-Levitated in Vacuum"  [Yale University Doctoral Thesis](https://harrislab.yale.edu/files/thesis/Brown_Thesis.pdf)
+
+So far, we have levitated a stable drop in high vacuum and studies its optical, acoustic properties, see
+- Brown, C. D., et al. "Characterization of Levitated Superfluid Helium Drops in High Vacuum." [arXiv preprint arXiv:2109.05618 (2021).](https://arxiv.org/abs/2109.05618)
+
+Currently, we are working on levitating a larger and colder Helium-4 drops to study quantum optomechanics in new regimes. This work provides a unique avenue to access to research macroscopic quantume phenomena, non-Guassian optomechanics.
+
+In the meantime, we are also explore the possibility to levitated He-3 drop in vacuum. And this project also gives the special access to study the opto-rotation dynamics in quantum regime.
+
+
+<div class="row mt-6">
+    <div class="col-sm mt-3 mt-md-0" align="center">
+        {% include figure.html path="/assets/img/project/levitated/outlook.png" zoomable=true width="700"%}
     </div>
 </div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}

@@ -2,10 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of my research projects.
+description:  <i><q>Quantum phenomena do not occur in a Hilbert space. They occur in a laboratory.</q></i> &#8212; Asher Peres
+
 nav: true
 nav_order: 2
-display_categories: [Optomechanics, Supercooled Water]
+display_categories: [Optomechanics, Levitation]
 horizontal: false
 ---
 
