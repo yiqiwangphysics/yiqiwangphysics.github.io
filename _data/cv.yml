@@ -42,17 +42,17 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: PHYS 508 Quantum Mechanics I
-      institution: GRADUATE TEACHING ASSISTANT FELLOW
-      year: 2019 Fall
-      description:
-        - This is a graduate level course. My works include leading group discussion, holding office hours, grading homework and making solution manual.
-
     - title: PHYS 201 Fundamental Physics
       institution: GRADUATE TEACHING ASSISTANT FELLOW
       year: 2020 Spring
       description:
         - I led introductory physics lecture discussions and helped groups of students collaboratively solve problems in study halls, grade homework and exams.
+
+    - title: PHYS 508 Quantum Mechanics I
+      institution: GRADUATE TEACHING ASSISTANT FELLOW
+      year: 2019 Fall
+      description:
+        - This is a graduate level course. My works include leading group discussion, holding office hours, grading homework and making solution manual.
 
     - title: Yale Undergradute Research Project
       institution: UNDERGRADUATE RESEARCH INSTRUCTOR
@@ -63,15 +63,17 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2014
-      items:
-        - 1st Prize, China Undergraduate Mathematics Contest in Modeling (CUMCM)
-    - year: 2015
-      items:
-        - XUEERSI Scholarship for Outstanding Student
     - year: 2017
       items:
         - Outstanding Graduate in Shanghai
+    - year: 2015
+      items:
+        - XUEERSI Scholarship for Outstanding Student
+    - year: 2014
+      items:
+        - 1st Prize, China Undergraduate Mathematics Contest in Modeling (CUMCM)
+
+
 
 - title: Academic Interests
   type: nested_list
@@ -94,15 +96,18 @@
 - title: Talk/Poster Presentation
   type: time_table
   contents:
-    - title: Quantum Optomechanics in a Levitated 4He Drop
-      institution: YQI Talk, New Haven
-      year: 2019 Nov
-    - title: Measurement of Non-classical Photon-Phonon States in a Superfluid Optomechanical System
-      institution: APS March Meeting, Virtual; NONGAUSS Workshop
-      year: 2021
-    - title: Experimental Test of Quantum Gravity Induced Non-locality Using a Liquid Helium Filled Cavity
-      institution: APS March Meeting, Chicago
-      year: 2022 March
     - title: Manipulating and Measuring States of an Optomechanical Resonator in the Quantum Regime
       institution: International Conference on Atomic Physics, Toronto
       year: 2022 July
+    - title: Optomechanics with Magnetically Levitated Helium-4 Drops
+      institution: Gordon Research Conference, Ventura
+      year: 2022 June
+    - title: Experimental Test of Quantum Gravity Induced Non-locality Using a Liquid Helium Filled Cavity
+      institution: APS March Meeting, Chicago
+      year: 2022 March
+    - title: Measurement of Non-classical Photon-Phonon States in a Superfluid Optomechanical System
+      institution: APS March Meeting, Virtual; NONGAUSS Workshop
+      year: 2021
+    - title: Quantum Optomechanics in a Levitated 4He Drop
+      institution: YQI Talk, New Haven
+      year: 2019 Nov

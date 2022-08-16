@@ -7,8 +7,8 @@ tags: random math
 categories: math thoughts lunchchat
 ---
 
-Finished a day’s work, walking along HillHouse Ave, I am touched by the soft breeze in summer sunset. Starting with a random question by me: "How many holes are there in a pair of pants?", we are divided into two groups with answers 2 and 3, respectively.
-The argument from me that a pair of pants have three holes is that: Imagine that blow your a pair of pants into a ballon, and the hole on your waist and two holes for two legs will be three punched holes on that $$S^2$$ sphere surface.
+Finished a day’s work, walking along HillHouse Ave with my colleague, I am touched by the soft breeze in summer sunset. Starting with a random question by me: "How many holes are there in a pair of pants?", we are divided into two groups with answers 2 and 3, respectively.
+The argument from me that a pair of pants have three holes is given by: Imagine blow your a pair of pants into a ballon, and the hole on your waist and two holes for two legs will be three punched holes on that $$S^2$$ sphere surface.
 
 <figure>
   <center>
@@ -17,7 +17,7 @@ The argument from me that a pair of pants have three holes is that: Imagine that
   </center>
 </figure>
 
-Another argument states a pair of pants is topologically equivalent to a Thong underwear, which is indeed a [genus-2 surface](https://en.wikipedia.org/wiki/Genus_%28mathematics%29)!
+Another argument states a pair of pants are topologically equivalent to a Thong underwear, which is indeed a [genus-2 surface](https://en.wikipedia.org/wiki/Genus_%28mathematics%29)!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -38,7 +38,7 @@ Another argument states a pair of pants is topologically equivalent to a Thong u
     </div>
 </div>
 
-After some thoughts, the shortcut to bridge the gap between these two arguments is expand one of the holes in $$S^2$$ to infinity and it ends up with a Thong underwear shape geometry. This intriguing thought leads me to dig a bit more deeper in the definition of the holes.
+After some thoughts, the shortcut to bridge the gap between these two arguments is expanding one of the holes in $$S^2$$ to infinity and it ends up with a Thong underwear shape geometry. This intriguing thought leads me to dig a bit deeper in the definition of the holes.
 
 In everyday language, we use “hole” in a variety of nonequivalent ways. One is as a cavity, like a pit in the ground. Another is as an opening or aperture in an object, like a tunnel through a mountain or the punches in three-ring binder paper. Yet another is as a completely enclosed space, such as an air pocket in Swiss cheese. A topologist would say that all but the first example are holes. What are holes?
 
