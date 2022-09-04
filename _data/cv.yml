@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Yiqi Wang
-    - name: Date of Birth
-      value: August 21st, 1994
     - name: Languages
       value: English (Fluent), Chinese (Native)
 
@@ -26,7 +24,7 @@
         - Physics Department
         - Exchanging at Chinese University of Hong Kong in 2016 Fall
         - Honors Student Award in Physics In <i>National Top Undergraduate Training Program</i>
-        - Outstanding graduate in Shanghai
+        - Outstanding Graduates in Shanghai
 
 - title: Experience
   type: time_table
@@ -34,6 +32,9 @@
     - title: Research Assistant
       institution: Physics Department, Yale University
       year: 2017 - now
+    - title: Teaching Fellow
+      institution: Physics Department, Yale University
+      year: 2019 - 2020
     - title: Yale-NUS Alumni Mentor
       institution: Yale-NUS College
       year: 2022
@@ -46,26 +47,26 @@
       institution: GRADUATE TEACHING ASSISTANT FELLOW
       year: 2020 Spring
       description:
-        - I led introductory physics lecture discussions and helped groups of students collaboratively solve problems in study halls, grade homework and exams.
+        - Lead introductory physics lecture discussions, grade homework and exams.
 
     - title: PHYS 508 Quantum Mechanics I
       institution: GRADUATE TEACHING ASSISTANT FELLOW
       year: 2019 Fall
       description:
-        - This is a graduate level course. My works include leading group discussion, holding office hours, grading homework and making solution manual.
+        - This is a graduate level course. My works include leading group discussions, holding office hours, grading homework and making solution manuals.
 
     - title: Yale Undergradute Research Project
       institution: UNDERGRADUATE RESEARCH INSTRUCTOR
       year: 2017-Now
       description:
-        - I mentored six undergraduate students for Yale undergraduate research projects. I hold weekly meeting and provided feedbacks on their projects.
+        - Mentored several undergraduate students for Yale undergraduate research projects.
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2017
       items:
-        - Outstanding Graduate in Shanghai
+        - Outstanding Graduates in Shanghai
     - year: 2015
       items:
         - XUEERSI Scholarship for Outstanding Student
@@ -80,18 +81,18 @@
   contents:
     - title: Quantum Optomechanics
       items:
-        - Explore potentail applications for hybrid optomechanics
-        - Manipulate and measure mechanical resonator in quantum regime
+        - Explore potential applications for hybrid optomechanics
+        - Manipulate and measure mechanical resonators in quantum regime
     - title: Quantum Sensing/Metrology
       items:
         - Quantum-enhanced sensitivity
-          - Dark matter search
-          - Gravity wave measurement
+            - Dark matter search
+            - Gravitional wave measurement
         - Quantum metrology advantages
     - title: Macroscopic Quantum Phenomena
       items:
-        - Explore quantum theory in macroscopic scales
-        - Test quantum gravity phenomenology
+        - Explore the quantum theory in macroscopic scales
+        - Quantum gravity phenomenology
 
 - title: Talk/Poster Presentation
   type: time_table
