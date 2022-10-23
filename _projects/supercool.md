@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Supercooled Water
-description: Using magnetical trapped water drop to study supercooled water phase transition
+description: Using magnetically trapped water drops to study supercooled water phase transition
 img: assets/img/project/supercool/cover.jpg
 importance: 3
-category: Levitation
+category: Levitations
 ---
 In 2020 Spring, I started working on another interesting interdisciplinary project with an undergraduate student Giovanna Turong (BA, Yale, '23) to extend our applications on levitated drops.
 
