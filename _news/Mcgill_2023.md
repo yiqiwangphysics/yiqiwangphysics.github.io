@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Invited to give a talk in Mcgill and Sherbrooke, Quebec
+title: Invited to give a talk in McGill and Sherbrooke, Quebec
 date: 2023-01-24 15:59:00-0400
 inline: false
 ---
