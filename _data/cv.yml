@@ -35,10 +35,44 @@
     - title: Teaching Fellow
       institution: Physics Department, Yale University
       year: 2019 - 2020
+
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items:
+        - Harvard Quantum Initiative Postdoctoral Fellowship
+    - year: 2023
+      items:
+        - Yale Graduate Travel Fellowship
+    - year: 2017
+      items:
+        - Yale Graduate Fellowship
+    - year: 2017
+      items:
+        - Outstanding Graduates in Shanghai
+    - year: 2015
+      items:
+        - XUEERSI Scholarship for Outstanding Student
+    - year: 2014
+      items:
+        - 1st Prize, China Undergraduate Mathematics Contest in Modeling (CUMCM)
+
+- title: Professional Service
+  type: time_table
+  contents:
+    - title: 2023 APS March Meeting (Las Vegas) Session (N65) Chair
+      institution: American Physical Society
+      year: 2023
+
+    - title: Yale Graduate Student Ambassadors
+      institution: Yale Physics Department
+      year: 2022-2023
+
     - title: Yale-NUS Alumni Mentor
       institution: Yale-NUS College
       year: 2022
-
 
 - title: Teaching
   type: time_table
@@ -60,20 +94,6 @@
       year: 2017-Now
       description:
         - Mentored several undergraduate students for Yale undergraduate research projects.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2017
-      items:
-        - Outstanding Graduates in Shanghai
-    - year: 2015
-      items:
-        - XUEERSI Scholarship for Outstanding Student
-    - year: 2014
-      items:
-        - 1st Prize, China Undergraduate Mathematics Contest in Modeling (CUMCM)
-
 
 
 - title: Academic Interests
