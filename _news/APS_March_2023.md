@@ -1,6 +1,6 @@
 ---
 layout: post
-title: March Meeting 2023 in Las Vegas
+title: Presenting at March Meeting 2023 in Las Vegas
 date: 2023-03-10 15:59:00-0400
 inline: false
 ---
