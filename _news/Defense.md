@@ -25,3 +25,5 @@ Tons of appreciation to my advisor Jack Harris and my committees Rob Schoelkopf 
 [News in Physics Department](https://physics.yale.edu/news/yiqi-wang-successfully-defends-thesis-manipulating-and-measuring-states-superfluid)
 
 [News in Wright Lab](https://physics.yale.edu/news/yiqi-wang-successfully-defends-thesis-manipulating-and-measuring-states-superfluid)
+
+Please email me if you want to check the record.
