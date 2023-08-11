@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Yiqi Wang
+      value: Yiqi Wang (&#x026A-t&#x0283&#x026A w&#x0254&#x014B)
     - name: Languages
       value: English (Fluent), Chinese (Native)
 
@@ -11,7 +11,7 @@
   contents:
     - title: Ph.D.
       institution: Yale University, New Haven, USA
-      year: 2017-Now
+      year: 2017-2023
       description:
         - Applied Physics Department
         - Ph.D. Candidacy Advisor &#58; Prof. Jack. G. E. Harris
@@ -29,9 +29,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: HQI Postdoctoral Fellow
+      institution: Physics Department, Harvard University; Harvard Quantum Initiative
+      year: 2023 - Now
     - title: Research Assistant
       institution: Physics Department, Yale University
-      year: 2017 - now
+      year: 2017 - 2023
     - title: Teaching Fellow
       institution: Physics Department, Yale University
       year: 2019 - 2020
@@ -91,7 +94,7 @@
 
     - title: Yale Undergradute Research Project
       institution: UNDERGRADUATE RESEARCH INSTRUCTOR
-      year: 2017-Now
+      year: 2017-2023
       description:
         - Mentored several undergraduate students for Yale undergraduate research projects.
 
@@ -117,6 +120,9 @@
 - title: Talk/Poster Presentation
   type: time_table
   contents:
+    - title: Manipulating and Measuring States of a Superfluid Optomechanical Resonator in the Quantum Regime
+      institution: Yale, New Haven
+      year: 2023 Aug
     - title: Magnetic Levitation of Helium-3 Drops
       institution: APS March Meeting, Las Vegas
       year: 2023 March
