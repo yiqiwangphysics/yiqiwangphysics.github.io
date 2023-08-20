@@ -3,7 +3,7 @@ layout: page
 title: Helium Filled Cavity
 description: Quantum optomechanics with a superfluid liquid Helium resonator
 img: assets/img/project/phonon/cover.png
-importance: 1
+importance: 3
 category: Optomechanics
 ---
 Since 2020 Jan, I have joined the Helium Filled Fiber Cavity Project with graduate students Jiaxin Yu (BA, Physics, Harvey Mudd ‘17), Sean Frazier (BA, Physics, Princeton ‘12) and postdoc Yogesh SS Patil (PhD, Cornell '18).

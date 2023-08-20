@@ -6,7 +6,7 @@ description:  <i><q>Quantum phenomena do not occur in a Hilbert space. They occu
 
 nav: true
 nav_order: 2
-display_categories: [Optomechanics, Levitation]
+display_categories: [Spinmehcanics, Optomechanics, Levitation]
 horizontal: false
 ---
 

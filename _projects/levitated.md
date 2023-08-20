@@ -3,7 +3,7 @@ layout: page
 title: Levitated Superfluid
 description: Study macroscopic quantum phenomena in a levitated superfluid Helium drop
 img: assets/img/project/levitated/cover.jpg
-importance: 2
+importance: 4
 category: Optomechanics
 ---
 
@@ -23,12 +23,12 @@ This work is based on the previous experimental proposal:
 - Charles Brown "Optical, Mechanical and Thermal Properties of Superfluid Liquid Helium Drops Magnetically-Levitated in Vacuum"  [Yale University Doctoral Thesis](https://harrislab.yale.edu/files/thesis/Brown_Thesis.pdf)
 
 So far, we have levitated a stable drop in high vacuum and studies its optical, acoustic properties, see
-- Brown, C. D., et al. "Characterization of Levitated Superfluid Helium Drops in High Vacuum." [arXiv preprint arXiv:2109.05618 (2021).](https://arxiv.org/abs/2109.05618)
+- Brown, C. D., et al. "Superfluid Helium Drops Levitated in High Vacuum" [Phys. Rev. Lett. 130, 216001](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.216001)
 
 Currently, we are working on levitating a larger and colder Helium-4 drops to study quantum optomechanics in new regimes. This work provides a unique avenue to access to research macroscopic quantume phenomena, non-Guassian optomechanics.
 
-In the meantime, we are also explore the possibility to levitated He-3 drop in vacuum. And this project also gives the special access to study the opto-rotation dynamics in quantum regime.
-Please keep an eye on this exciting and intriguing project! 
+In the meantime, we are also explore the possibility to levitate a He-3 drop in vacuum. This project also provides a special access to study the opto-rotation dynamics in quantum regime.
+Please keep an eye on this exciting and intriguing project!
 
 <div class="row mt-6">
     <div class="col-sm mt-3 mt-md-0" align="center">
