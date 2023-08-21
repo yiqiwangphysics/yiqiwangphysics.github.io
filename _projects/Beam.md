@@ -16,7 +16,7 @@ Since 2023 August, I have joined the NVs-mechanics project with graduate student
 
 Interfacing spins and mechanical degrees of freedom allows for a variety of applications and experimental observations. For example, one can deterministically entangle pairs of spins through their coherent coupling with the dynamics of a resonator, even for large spin-spin distance separations and thermal resonator states. Additionally, the resonator could be cooled close to the quantum ground state by bringing a strongly coupled bath of spins into resonance, introducing the possibility of single phonon experiments and quantum state preparation of a mesoscopic object.
 
-In our lab, we are pursuing strong, coherent coupling of Nitrogen Vacancy (NV) center spin qubits in diamond, to mechanical resonators via a magnetic field gradient. One setup we use in the lab consists of silicon nitride nanobeams with a magnet placed at the center.
+In our lab, we are pursuing strong, coherent coupling of Nitrogen Vacancy (NV) center spin qubits in diamond, to mechanical resonators via a magnetic field gradient. One setup we use in the lab consists of silicon nitride nanobeams with a magnet placed at the center. These resonators can be fabricated in a scalable way with several resonators per chip. Frequencies are typically ~ 1 MHz with quality factors of ~ 10^7. The diamonds are on the AFM tips, which allows us to bring an NV arbitrarily close to the magnet. 
 
 The previous work of this setup was lead by Mikhail Lukin and Jack Harris with Shimon Kolkowitz,  Ania Jayich, Emma Rosenfeld, Jan Gieseler.
 See the following papers for details:
