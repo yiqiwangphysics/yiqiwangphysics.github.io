@@ -22,4 +22,6 @@ Our other mechanical resonator setup consists of a ~ 10 um ferromagnetic microsp
 
 - Gieseler, Jan, et al. "Single-spin magnetomechanics with levitated micromagnets." [Physical Review Letters 124.16 (2020): 163604.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.163604)
 
+A nice [article](https://physics.aps.org/articles/v13/67) to read.
+
 We are currently working on increasing the quality factor of the motion and increasing the coupling strength.
