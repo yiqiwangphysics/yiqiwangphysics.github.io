@@ -10,7 +10,7 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: >
     <p><a href='https://physics.yale.edu'>Harvard University</a></p>
-    <p>19 Oxford St</p>
+    <p>11 Oxford St</p>
     <p>Cambridge, MA, 02138</p>
 
 news: true  # includes a list of news items
