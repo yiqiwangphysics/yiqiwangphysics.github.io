@@ -120,6 +120,9 @@
 - title: Talk/Poster Presentation
   type: time_table
   contents:
+    - title: Interfacing Mechanical Resonators with Spin Qubits
+      institution: MURI Kickoff Workshop, New Haven
+      year: 2023 Nov
     - title: Manipulating and Measuring States of a Superfluid Optomechanical Resonator in the Quantum Regime
       institution: Yale, New Haven
       year: 2023 Aug
