@@ -9,9 +9,9 @@ nav: false
 <div class="row justify-content-sm-center">
     <div class="col-sm-7 mt-3 mt-md-0">
       <p> <h1 style="font-size:150%;">Call or Visit</h1>
-          <strong>Address:</strong> Mikhail Lukin Nano Mech Lab,<br>
-          &emsp;&emsp;&emsp;&emsp;&nbsp;Harvard University,<br>
-          &emsp;&emsp;&emsp;&emsp;&nbsp;11 Oxford St,<br>
+          <strong>Address:</strong> Harvard University,<br>
+          &emsp;&emsp;&emsp;&emsp;&nbsp;17 Oxford St,<br>
+          &emsp;&emsp;&emsp;&emsp;&nbsp;Lyman 443,<br>
           &emsp;&emsp;&emsp;&emsp;&nbsp;Cambridge, MA, 02138<br>
          <br>
          &emsp;&emsp;&nbsp;<strong>Tel:</strong> (475)&nbsp;655-8665<br>
