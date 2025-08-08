@@ -6,7 +6,7 @@ subtitle:  <i>&#34;There is only one true heroism in the world, to see the world
 
 profile:
   align: right
-  image: Yiqi_Wang_Portrait.jpg
+  image: Yiqi_Wang_photo_2.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     <p><a href='https://physics.yale.edu'>Harvard University</a></p>
@@ -27,4 +27,4 @@ allows for a variety of applications and experimental observations. For example,
 
 I hold a B.Sc. (2017) in Physics, with Honors, from [Department of Physics, Fudan University](https://phys.fudan.edu.cn/eng/), where my research focused on condensed matter experiments in low temperature and high magnetic fields.
 
-**I** was born on a small island, [Luxi(鹿西) island](../assets/img/Luxi.jpeg), in SouthEast China, where I spent my first 13 years. Since then, all cities (Wenzhou, Shanghai, Hong Kong, New Haven, Boston) I have been living in are near the coast. I enjoy swimming, basketball, and hiking. I also learned skiing in New England and am planning to learn sailing on Boston. I have a Cat (**NOT** in a Superposition state **BUT** Alive) named [Chowder](../assets/img/Chowder.jpeg).
+**I** was born on a small island, [Luxi(鹿西) island](../assets/img/Luxi.jpeg), in SouthEast China, where I spent my first 13 years. Since then, all cities (Wenzhou, Shanghai, Hong Kong, New Haven, Boston) I have been living in are near the coast. I enjoy swimming, basketball, and hiking. I also learned [skiing](../assets/img/Ski.jpeg) in New England and leart [sailing](../assets/img/sail.jpeg) on Charles river. I have a Cat (**NOT** in a Superposition state **BUT** Alive) named [Chowder](../assets/img/Chowder.jpeg).
