@@ -13,3 +13,7 @@
 "Harris":
   - firstname: ["Jack", "J.G.E.", "J. G. E.", "Jack G.E.", "Jack GE"]
     url: https://physics.yale.edu/people/jack-harris
+
+"Lukin":
+  - firstname: ["Mikhail", "Mikhail D.", "M. D.", "M.D."]
+    url: https://lukin.physics.harvard.edu/people/mikhail-lukin

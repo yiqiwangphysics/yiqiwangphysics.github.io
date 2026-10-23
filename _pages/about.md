@@ -9,7 +9,7 @@ profile:
   image: Yiqi_Wang_photo_2.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p><a href='https://physics.yale.edu'>Harvard University</a></p>
+    <p><a href='https://www.physics.harvard.edu'>Harvard University</a></p>
     <p>17 Oxford St</p>
     <p>Cambridge, MA, 02138</p>
 
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 **I** am an HQI postdoctoral fellow at [Harvard Physics Department](https://www.physics.harvard.edu) and [Harvard Quantum Initiative](https://quantum.harvard.edu).
-In August 2023, I started working with [Prof. Mikhail Lukin](https://www.physics.harvard.edu/people/facpages/lukin) on [coupling NVs to mechanical resonators](https://lukin.physics.harvard.edu/quantum-spin-mech). The aim is to explore the interface between spins (NVs) and mechanical degrees of freedom for potential quantum applications.
+In August 2023, I started working with [Prof. Mikhail Lukin](https://www.physics.harvard.edu/people/facpages/lukin) on [coupling NVs to mechanical resonators](https://lukin.physics.harvard.edu/quantum-spin-mech). The aim is to explore the interface between spins (NVs) and mechanical degrees of freedom for potential quantum applications. My current work focuses on: i) interfacing a mechanical oscillator with a single electron spin; ii) the levitodynamics of micron-scale magnets levitated above a superconductor, which we use to study nonlinear multimode mechanics, magnetometry, and the dynamics of individual superconducting vortices.
 <!--
 allows for a variety of applications and experimental observations. For example, one can deterministically entangle pairs of spins through their coherent coupling with the dynamics of a resonator, even for large spin-spin distance separations and thermal resonator states. Additionally, the resonator could be cooled close to the quantum ground state by bringing a strongly coupled bath of spins into resonance, introducing the possibility of single phonon experiments and quantum state preparation of a mesoscopic object. -->
 
